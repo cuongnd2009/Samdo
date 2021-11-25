@@ -1,0 +1,5 @@
+nav.post-navigation .nav-links a.nav-previous .post-title,
+nav.post-navigation .nav-links a.nav-next .post-title,
+.related-item .post-content a {
+    font-weight: bold;
+}
