@@ -25,7 +25,7 @@
     <nav class="navigation">
       <ul id="primary-menu" class="main-nav underline-decoration upwards-line level-arrows-on" role="menu">
         <li
-          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1601 first has-children">
+          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1601 first has-children act">
           <a href="#1594" data-level="1"><span class="menu-item-text"><span class="menu-text">About
                 Samdo</span></span></a><i class="next-level-button"></i>
           <ul class="sub-nav level-arrows-on">
@@ -53,7 +53,7 @@
           </ul>
         </li>
         <li
-          class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1600 act has-children">
+          class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1601 first has-children act">
           <a href="#7" data-level="1"><span class="menu-item-text"><span class="menu-text">Our
                 Services</span></span></a><i class="next-level-button"></i>
           <ul class="sub-nav level-arrows-on">

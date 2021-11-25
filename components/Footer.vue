@@ -81,7 +81,7 @@
                           Services</span></span></a>
                     <ul class="sub-nav level-arrows-on">
                       <li
-                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-408 current_page_item menu-item-1604 act first">
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2681 has-children act">
                         <a href="#408" data-level="2"><span class="menu-item-text"><span class="menu-text">감사 및
                               회계자문</span></span></a></li>
                       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1766"><a
@@ -105,7 +105,7 @@
                     </ul>
                   </li>
                   <li
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2681 has-children">
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2681 has-children act">
                     <a href="#2397" data-level="1"><span class="menu-item-text"><span
                           class="menu-text">Professionals</span></span></a>
                     <ul class="sub-nav level-arrows-on">

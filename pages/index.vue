@@ -1,31 +1,52 @@
 <template>
-  <div id="main" class="sidebar-none sidebar-divider-off" style="padding-top:0px; padding-bottom:0px;">
+  <div id="main" class="sidebar-right sidebar-divider-off" style="padding-top:0px; padding-bottom:0px;">
+    <!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img class="d-block w-100" src="http://samdoacc.com/wp-content/uploads/2018/10/banner7.jpg" alt="First slide">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="http://samdoacc.com/wp-content/uploads/2018/10/banner7.jpg" alt="Second slide">
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="http://samdoacc.com/wp-content/uploads/2018/10/banner7.jpg" alt="Third slide">
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div> -->
     <div class="main-gradient"></div>
     <div class="wf-wrap">
       <div class="wf-container-main">
-        <div id="content" class="content" role="main">
-          <div class="vc_row wpb_row vc_row-fluid vc_custom_1533537166602">
+        <div id="content" class="content pt-5" role="main">
+          <div class="vc_row wpb_row vc_row-fluid vc_custom_1533537166602 pb-5">
             <div class="wpb_column vc_column_container vc_col-sm-4">
               <div class="vc_column-inner">
                 <div class="wpb_wrapper">
                   <div class="aio-icon-component  vc_custom_1533537231386  accent-icon-bg style_1">
                     <div id="Info-box-wrap-7594" class="aio-icon-box top-icon" style="">
                       <div class="aio-icon-top">
-                        <div class="ult-just-icon-wrapper  ">
+                        <div class="ult-just-icon-wrapper">
                           <div class="align-icon" style="text-align:center;">
-                            <div class="aio-icon circle " style="color:#ffffff;font-size:32px;display:inline-block;">
+                            <div class="aio-icon circle" style="color:#ffffff;font-size:32px;display:inline-block;">
                               <i class="Defaults-th-list"></i>
                             </div>
                           </div>
                         </div>
                       </div>
-                      <div class="aio-icon-header">
+                      <div class="aio-icon-header text-center">
                         <h3 class="aio-icon-title ult-responsive"
                           data-ultimate-target="#Info-box-wrap-7594 .aio-icon-title"
                           data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:20px;&quot;,&quot;line-height&quot;:&quot;desktop:30px;&quot;}"
                           style="">원칙</h3>
                       </div> <!-- header -->
-                      <div class="aio-icon-description ult-responsive"
+                      <div class="aio-icon-description ult-responsive text-center"
                         data-ultimate-target="#Info-box-wrap-7594 .aio-icon-description"
                         data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"
                         style="">삼도회계법인은 마땅히 지켜야 할<br>
@@ -49,13 +70,13 @@
                           </div>
                         </div>
                       </div>
-                      <div class="aio-icon-header">
+                      <div class="aio-icon-header text-center">
                         <h3 class="aio-icon-title ult-responsive"
                           data-ultimate-target="#Info-box-wrap-6949 .aio-icon-title"
                           data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:20px;&quot;,&quot;line-height&quot;:&quot;desktop:30px;&quot;}"
                           style="">신뢰</h3>
                       </div> <!-- header -->
-                      <div class="aio-icon-description ult-responsive"
+                      <div class="aio-icon-description ult-responsive text-center"
                         data-ultimate-target="#Info-box-wrap-6949 .aio-icon-description"
                         data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"
                         style="">삼도회계법인은 고객사와의 신뢰를 바탕으로<br>
@@ -79,13 +100,13 @@
                           </div>
                         </div>
                       </div>
-                      <div class="aio-icon-header">
+                      <div class="aio-icon-header text-center">
                         <h3 class="aio-icon-title ult-responsive"
                           data-ultimate-target="#Info-box-wrap-6059 .aio-icon-title"
                           data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:20px;&quot;,&quot;line-height&quot;:&quot;desktop:30px;&quot;}"
                           style="">전문성</h3>
                       </div> <!-- header -->
-                      <div class="aio-icon-description ult-responsive"
+                      <div class="aio-icon-description ult-responsive text-center"
                         data-ultimate-target="#Info-box-wrap-6059 .aio-icon-description"
                         data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}"
                         style="">각분야의 전문가들로 구성된 삼도회계법인은<br>
@@ -96,7 +117,7 @@
               </div>
             </div>
           </div>
-          <div class="vc_row wpb_row vc_row-fluid vc_custom_1518500588199 ult-vc-hide-row vc_row-has-fill"
+          <div class="vc_row wpb_row vc_row-fluid vc_custom_1518500588199 ult-vc-hide-row vc_row-has-fill pt-5"
             data-rtl="false" data-row-effect-mobile-disable="true" style="position: relative;">
             <div class="upb_row_bg" data-bg-override="ex-full"
               style="background: rgb(237, 237, 237); min-width: 1902px; left: -326px; width: 1902px;"></div>
@@ -183,16 +204,16 @@
                           </div>
                         </div>
                       </div>
-
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div><!-- Row Backgrounds -->
-        </div><!-- #content -->
-      </div><!-- .wf-container -->
-    </div><!-- .wf-wrap -->
+          </div>
+        </div>
+        <News />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -200,10 +221,10 @@
   import {
     mapState
   } from 'vuex'
-  import SideBar from '@/components/SideBar/SideBar.vue'
+  import News from '@/components/SideBar/News.vue'
   export default {
-    comments: {
-      SideBar
+    components: {
+      News
     },
     computed: {
       ...mapState({})
